@@ -28,4 +28,4 @@ Using math tools to learn technical analysis chart patterns to trade on them
 
 *Defining Technical Chart Patterns Programmatically* https://alpaca.markets/learn/algorithmic-trading-chart-pattern-python/
 
-**need to go there for further code info** https://github.com/topics/technical-analysis
+**need to go there for further code info** https://github.com/topics/technical-analysis https://github.com/Drakkar-Software/OctoBot
