@@ -17,3 +17,5 @@ Using math tools to learn technical analysis chart patterns to trade on them
 *Short-term stock market price trend prediction using a comprehensive deep learning system*
 
 *Algorithmically Detecting (and Trading) Technical Chart Patterns with Python* https://medium.com/automation-generation/algorithmically-detecting-and-trading-technical-chart-patterns-with-python-c577b3a396ed
+
+*Technical Pattern Recognition for Trading in Python* https://towardsdatascience.com/technical-pattern-recognition-for-trading-in-python-63770aab422f
