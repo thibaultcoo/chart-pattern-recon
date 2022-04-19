@@ -1,1 +1,1 @@
-# chart-pattern-recon
+## Stock chart pattern recognition using ML
