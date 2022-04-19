@@ -27,3 +27,5 @@ Using math tools to learn technical analysis chart patterns to trade on them
 *Machine Learning and Pattern Recognition for Algorithmic Forex and Stock Trading* https://pythonprogramming.net/machine-learning-pattern-recognition-algorithmic-forex-stock-trading/
 
 *Defining Technical Chart Patterns Programmatically* https://alpaca.markets/learn/algorithmic-trading-chart-pattern-python/
+
+**need to go there for further code info** https://github.com/topics/technical-analysis
