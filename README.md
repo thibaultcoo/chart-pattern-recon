@@ -7,3 +7,13 @@ Using math tools to learn technical analysis chart patterns to trade on them
 *Stock Chart Pattern recognition with Deep Learning* https://arxiv.org/pdf/1808.00418.pdf
 
 *Improving stock trading decisions based on pattern recognition using machine learning technology* https://pdfs.semanticscholar.org/ae37/b1292fc31f241894ca82ca59933e8a883544.pdf
+
+*Combining Technical Indicators and Deep Learning by using LSTM Stock Price Predictor* https://ieeexplore.ieee.org/document/9454877
+
+*Technical analysis strategy optimization using a machine learning approach in stock market indices* https://www.sciencedirect.com/science/article/abs/pii/S0950705121003828
+
+*Stock Trend Prediction Using Deep Learning*
+
+*Short-term stock market price trend prediction using a comprehensive deep learning system*
+
+*Algorithmically Detecting (and Trading) Technical Chart Patterns with Python* https://medium.com/automation-generation/algorithmically-detecting-and-trading-technical-chart-patterns-with-python-c577b3a396ed
