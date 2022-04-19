@@ -19,3 +19,5 @@ Using math tools to learn technical analysis chart patterns to trade on them
 *Algorithmically Detecting (and Trading) Technical Chart Patterns with Python* https://medium.com/automation-generation/algorithmically-detecting-and-trading-technical-chart-patterns-with-python-c577b3a396ed
 
 *Technical Pattern Recognition for Trading in Python* https://towardsdatascience.com/technical-pattern-recognition-for-trading-in-python-63770aab422f
+
+*Chart Pattern Recognition in Python* https://kaabar-sofien.medium.com/chart-pattern-recognition-in-python-fda5c7efe7bf
